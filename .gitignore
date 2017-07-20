@@ -46,3 +46,7 @@ tests/_output/*
 tests/_support/_generated/*
 tests/cache/*
 tests/error.log
+
+# github
+__github-refresher-A841BE60.php
+__github-log.txt
