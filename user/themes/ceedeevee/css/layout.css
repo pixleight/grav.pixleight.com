@@ -24,6 +24,16 @@
 
 body { background: #0f0f0f; }
 
+::-moz-selection {
+  color: #FFF;
+  background: #7E57C2;
+}
+
+::selection {
+  color: #FFF;
+  background: #7E57C2;
+}
+
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
