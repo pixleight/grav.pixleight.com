@@ -24,6 +24,10 @@
 
 body { background: #0f0f0f; }
 
+.hide {
+  display: none !important;
+}
+
 ::-moz-selection {
   color: #FFF;
   background: #7E57C2;
