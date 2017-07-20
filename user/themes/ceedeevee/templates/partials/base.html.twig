@@ -49,7 +49,9 @@
             {% do assets.addJs('theme://js/jquery.fittext.js') %}
             {% do assets.addJs('theme://js/magnific-popup.js') %}
             {% do assets.addJs('theme://js/init.js') %}
-            {% include 'partials/twFetcher.html.twig' %}
+            {% if site.twitter is not empty %}
+              {% include 'partials/twFetcher.html.twig' %}
+            {% endif %}
         {% endblock %}
         {{ assets.js() }}
     </body>
