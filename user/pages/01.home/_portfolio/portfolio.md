@@ -1,53 +1,53 @@
 ---
 title: Portfolio
 portfolio:
-  - title: "Coffee Cup"
-    description: Illustration
-    img: coffee.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Branding, Web Development
-    details: http://www.behance.net
-  - title: "Console"
+  - title: "PCHC.com"
     description: Web Development
-    img: console.jpg
+    img: pchc-com.jpg
     content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Branding, Web Development
-    details: http://www.behance.net
-  - title: "Judah"
-    description: Webdesign
-    img: judah.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Branding
-    details: http://www.behance.net
-  - title: "Into The Light"
-    description: Photography
-    img: intothelight.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Photography    
-    details: http://www.behance.net
-  - title: "Farmer Boy"
-    description: Branding
-    img: farmerboy.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Branding, Webdesign   
-    details: http://www.behance.net
-  - title: "Girl"
-    description: Photography
-    img: girl.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Photography
-    details: http://www.behance.net
-  - title: "Origami"
-    description: Illustration
-    img: origami.jpg
-    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Branding, Illustration  
-    details: http://www.behance.net
-  - title: "Retrocam"
+    tags: Web Design, Web Development
+    details: https://pchc.com
+  - title: "Seaport Community Health Center"
     description: Web Development
-    img: retrocam.jpg
+    img: seaport.jpg
     content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
-    tags: Webdesign, Photography   
-    details: http://www.behance.net   
+    tags: Web Development
+    details: https://seaport.pchc.com
+  - title: "PCHC Dental Residency"
+    description: Web Development
+    img: dental-residency.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Web Development
+    details: https://dentalresidency.pchc.com
+  - title: "Hope House Health & Living Center"
+    description: Web Development
+    img: hopehouse.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Web Development, Web Design
+    details: https://hopehouse.pchc.com
+  - title: "Katahdin Shadows Camoground"
+    description: Web Development
+    img: katahdinshadows.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Web Development, Web Design
+    details: http://www.katahdinshadows.com
+  - title: "UMaine 150th Anniversary Hockey Jersey"
+    description: Design
+    img: umaine-150jersey.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Design
+    details: https://hopehouse.pchc.com
+  - title: "UMaine Hockey 40th Anniversary"
+    description: Graphic Design
+    img: umaine-40years.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Graphic Design
+    details: https://hopehouse.pchc.com
+  - title: "MSHP Logo"
+    description: Graphic Design
+    img: mshp.jpg
+    content: "Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit."
+    tags: Graphic Design
+    details: https://hopehouse.pchc.com
 ---
-#Check Out Some of My Works.
+#Check Out Some of My Work.

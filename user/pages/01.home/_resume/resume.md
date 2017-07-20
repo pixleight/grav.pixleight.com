@@ -4,43 +4,46 @@ sections:
     - title: Education
       css_class: education
       items:
-        - title: University of Life
-          info: Master in Graphic Design
-          date: April 2007
-          description:  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
-        - title: School of Cool Designers
-          info: B.A. Degree in Graphic Design
-          date: March 2003
-          description: This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+        - title: University of Maine
+          info: Bachelor of Arts in New Media
+          date: May 2007
     - title: Work
       css_class: work
       items:
-        - title: Awesome Design Studio
-          info: Senior UX Designer
-          date: March 2010 - Present
-          description:  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
-        - title: Super Cool Studio
-          info: UX Designer
-          date: March 2007 - February 2010
-          description:  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat  
+        - title: PCHC
+          info: Manager of Digital Media & Web Development
+          date: 2012 - Present
+          description:  Directed the digital side of internal and external marketing & communications for the second-largest Federally Qualified Health Center in New England. Managing web development, photography, and videography, I helped to meet the needs of dozens of facilities and departments to successfully advertise our services to patients across the state of Maine.
+        - title: Sutherland Weston Marketing Communications
+          info: Web Developer
+          date: 2011 - 2012
+          description:  Designed and developed custom websites for various businesses and nonprofits, and worked with a web development team to continue to design new features for the company's proprietary content management system.
+        - title: Links Web Design
+          info: Web Designer
+          date: 2009 - 2011
+          description:  Designed and developed websites for various businesses and nonprofits. Worked to reduce company's reliance on third-party themes and instead developed custom, in-house themes to better meet clients' needs.
+        - title: Stonewall Kitchen
+          info: Web Designer
+          date: 2007 - 2009
+          description:  Designed and developed various web projects, including promotional emails and micro-websites. Also maintained Stonewall Kitchen’s main website, updating designs and optimizing images for online catalog.  
     - title: Skills
       css_class: skill
       items:
         - title:
           info:
           date:
-          description:  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.  
+          description:
           skills:
+            - name: Web Design & Development
+              level: 85
+            - name: Wordpress
+              level: 85
             - name: Photoshop
-              level: 60
+              level: 66
             - name: Illustrator
               level: 55
-            - name: Wordpress
-              level: 50
-            - name: CSS
-              level: 90
-            - name: Html5
-              level: 80
-            - name: Jquery
-              level: 50            
+            - name: Photography
+              level: 70
+            - name: Videography
+              level: 45            
 ---
