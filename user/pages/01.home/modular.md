@@ -30,22 +30,12 @@ form:
           validate:
             required: true
 
-        - name: g-recaptcha-response
-          label: Captcha
-          type: captcha
-          recaptcha_site_key: 6LcQwykUAAAAAHx6JYPhCkwHtUKZhbwHLyuzh1HC
-          recaptcha_not_validated: 'Captcha not valid!'
-          validate:
-            required: true
-
     buttons:
         - type: submit
           value: Submit
           class: submit
 
     process:
-        - captcha:
-            recaptcha_secret: 6LcQwykUAAAAANxsDisCeAli-eefzSUNENdvp4fO
         - email:
             from: "{{ config.plugins.email.from }}"
             to:
