@@ -1,12 +1,26 @@
 ---
 title: Resume
 sections:
-    - title: Education
-      css_class: education
+    - title: Skills
+      css_class: skill
       items:
-        - title: University of Maine
-          info: Bachelor of Arts in New Media
-          date: May 2007
+        - title:
+          info:
+          date:
+          description:
+          skills:
+            - name: Web Design & Development
+              level: 85
+            - name: Wordpress
+              level: 85
+            - name: Photoshop
+              level: 66
+            - name: Illustrator
+              level: 55
+            - name: Photography
+              level: 80
+            - name: Videography
+              level: 45            
     - title: Work
       css_class: work
       items:
@@ -25,25 +39,11 @@ sections:
         - title: Stonewall Kitchen
           info: Web Designer
           date: 2007 - 2009
-          description:  Designed and developed various web projects, including promotional emails and micro-websites. Also maintained Stonewall Kitchen’s main website, updating designs and optimizing images for online catalog.  
-    - title: Skills
-      css_class: skill
+          description:  Designed and developed various web projects, including promotional emails and micro-websites. Also maintained Stonewall Kitchen’s main website, updating designs and optimizing images for online catalog.
+    - title: Education
+      css_class: education
       items:
-        - title:
-          info:
-          date:
-          description:
-          skills:
-            - name: Web Design & Development
-              level: 85
-            - name: Wordpress
-              level: 85
-            - name: Photoshop
-              level: 66
-            - name: Illustrator
-              level: 55
-            - name: Photography
-              level: 70
-            - name: Videography
-              level: 45            
+        - title: University of Maine
+          info: Bachelor of Arts in New Media
+          date: May 2007
 ---
