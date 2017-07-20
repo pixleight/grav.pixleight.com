@@ -30,7 +30,9 @@
                 <span class="categories"><i class="fa fa-tag"></i>{{ item.tags }}</span>
             </div>
             <div class="link-box">
-                <a href="{{ item.details }}">Details</a>
+                {% if item.details %}
+                  <a href="{{ item.details }}">Details</a>
+                {% endif %}
                 <a class="popup-modal-dismiss">Close</a>
             </div>
         </div>
