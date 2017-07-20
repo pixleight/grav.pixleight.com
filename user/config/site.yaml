@@ -1,4 +1,4 @@
-title: Portfolio of Chris Violette
+title: Digital Media by Chris Violette
 author:
   name: Chris Violette
 metadata:
@@ -36,10 +36,3 @@ social:
 # Use this as your ID below instead!
 
 twitter:
-  id: '468552211291598848' # Your widget ID
-  domId: 'tw-widget1' # HTML ID used in code
-  maxTweets: 3 # How many tweets to display
-  enableLinks: 'true' # Enable links
-  showInteraction: 'false' # Show interaction
-  showImages: 'false'  # Show images
-  showUser: 'false' # Show user name
