@@ -6,26 +6,22 @@ metadata:
 
 # Header customization
 header:
-  title: I'm Jonathan Doe.
-  description: I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and effective visual identities for companies of all sizes around the globe. Let's <a class="smoothscroll" href="#about">start scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.
+  title: Hi, I'm Chris.
+  description: I'm a Maine based <span>web developer</span>, <span>designer</span> and <span>photographer</span><br><a class="smoothscroll" href="#portfolio">Let's get creative</a>.
+  scrolldown: portfolio
 copyright:
-    - line: &copy; Copyright 2014 CeeVee
-    - line: Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a>
+    - line: &copy; Copyright 2017 Chris Violette
 social:
-- url: "#"
-  icon: facebook
-- url: "#"
+- url: "https://twitter.com/pixleight/"
   icon: twitter
-- url: "#"
-  icon: google-plus
-- url: "#"
+- url: "https://github.com/pixleight"
+  icon: github
+- url: "https://www.linkedin.com/in/chris-violette-3472a8b/"
   icon: linkedin
-- url: "#"
+- url: "https://www.instagram.com/pixleight/"
   icon: instagram
-- url: "#"
-  icon: dribbble
-- url: "#"
-  icon: skype
+- url: "https://500px.com/pixleight"
+  icon: 500px
 
 
 # HOW TO CREATE A VALID ID TO USE:
@@ -40,7 +36,7 @@ social:
 # Use this as your ID below instead!
 
 twitter:
-  id: '657554810648948736' # Your widget ID
+  id: '468552211291598848' # Your widget ID
   domId: 'tw-widget1' # HTML ID used in code
   maxTweets: 3 # How many tweets to display
   enableLinks: 'true' # Enable links
