@@ -1,6 +1,6 @@
 enabled: true
-from: your@email.here
-to: your@email.here
+from: chris@pixleight.com
+to: chris@pixleight.com
 mailer:
   engine: mail
   smtp:

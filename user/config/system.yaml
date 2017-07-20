@@ -10,7 +10,7 @@ pages:
     extra: true
 
 cache:
-  enabled: false
+  enabled: true
   check:
     method: file
   driver: auto
