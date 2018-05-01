@@ -2,12 +2,12 @@ title: Digital Media by Chris Violette
 author:
   name: Chris Violette
 metadata:
-    description: 'A Maine-based web developer, designer, and photographer.'
+    description: 'A Maine-based marketing &amp; communications professional, web developer, designer, and photographer.'
 
 # Header customization
 header:
   title: Hi, I'm Chris.
-  description: I'm a Maine based <span>web developer</span>, <span>designer</span> and <span>photographer</span><br><a class="smoothscroll" href="#portfolio">Let's get creative</a>.
+  description: I'm a Maine based <span>web developer</span>, <span>designer</span>, <span>photographer</span>, and <span>marketing &amp; communications professional</span><br><a class="smoothscroll" href="#portfolio">Let's get creative</a>.
   scrolldown: portfolio
 copyright:
     - line: &copy; Copyright 2017 Chris Violette

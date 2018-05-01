@@ -9,6 +9,8 @@ sections:
           date:
           description:
           skills:
+            - name: Marketing & communications
+              level: 80
             - name: Web Design & Development
               level: 85
             - name: Wordpress
@@ -25,7 +27,7 @@ sections:
       css_class: work
       items:
         - title: PCHC
-          info: Manager of Digital Media & Web Development
+          info: Manager of Digital Media & Web Development; Communications Manager
           date: 2012 - Present
           description:  Directed the digital side of internal and external marketing & communications for the second-largest Federally Qualified Health Center in New England. Managing web development, photography, and videography, I helped to meet the needs of dozens of facilities and departments to successfully advertise our services to patients across the state of Maine.
         - title: Sutherland Weston Marketing Communications
@@ -45,5 +47,5 @@ sections:
       items:
         - title: University of Maine
           info: Bachelor of Arts in New Media
-          date: May 2007
+          date: 2007
 ---

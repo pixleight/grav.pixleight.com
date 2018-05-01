@@ -16,4 +16,4 @@ buttons:
 ---
 ## About Me
 
-Ever since I played with my first computer, I knew my life would revolve around the digital world. With creativity from my mother and a knack for building things from my father, I've turned my passion into a career in digital media and web design.
+I'm a Maine-based marketing and communications professional with specialties including web design & development, graphic design & branding, photography, and videography.
