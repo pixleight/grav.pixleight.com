@@ -1,28 +1,15 @@
 ---
 title: Resume
-sections:
+sections:       
     - title: Skills
-      css_class: skill
+      css_class: technical-skill
       items:
-        - title:
-          info:
-          date:
-          description:
-          skills:
-            - name: Marketing & communications
-              level: 80
-            - name: Web Design & Development
-              level: 85
-            - name: Wordpress
-              level: 85
-            - name: Photoshop
-              level: 66
-            - name: Illustrator
-              level: 55
-            - name: Photography
-              level: 80
-            - name: Videography
-              level: 45            
+        - title: Web Design & Development
+          description: HTML5 | CSS3 | SASS | JavaScript | jQuery | React.js | PHP | WordPress | WooCommerce | Laravel | Bootstrap | Responsive Design | Webpack | Gulp | Git
+        - title: Software
+          description: Adobe Creative Suite | Microsoft Office | MacOS | Final Cut Pro X | Atom | VSCode
+        - title: Other Skills
+          description: Photography | Graphic Design | Videography | Marketing & Communications 
     - title: Work
       css_class: work
       items:
