@@ -15,7 +15,7 @@ sections:
       items:
         - title: PCHC
           info: Manager of Digital Media & Web Development; Communications Manager
-          date: 2012 - Present
+          date: 2012 - 2018
           description:  Directed the digital side of internal and external marketing & communications for the second-largest Federally Qualified Health Center in New England. Managing web development, photography, and videography, I helped to meet the needs of dozens of facilities and departments to successfully advertise our services to patients across the state of Maine.
         - title: Sutherland Weston Marketing Communications
           info: Web Developer
