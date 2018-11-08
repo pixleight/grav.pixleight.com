@@ -3,7 +3,7 @@ title: About
 title2: Contact Details
 address:
     - line: Chris Violette
-    - line: Brewer, ME 04412 US
+    - line: Cleveland, OH 44113 US
 email:
     - address: chris@pixleight.com
 buttons:
@@ -16,4 +16,4 @@ buttons:
 ---
 ## About Me
 
-I'm a Maine-based marketing and communications professional with specialties including web design & development, graphic design & branding, photography, and videography.
+I'm a Cleveland-based marketing and communications professional with specialties including web design & development, graphic design & branding, photography, and videography.
