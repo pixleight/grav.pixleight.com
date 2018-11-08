@@ -2,18 +2,23 @@
 title: Portfolio
 portfolio:
   - title: "PCHC.com"
-    description: Web Development, Web Design
+    description: Web Development, Web Design, WordPress
     img: pchc-com.jpg
     content: "Custom design and development of PCHC.com, the main website for Penobscot Community Health Care"
     tags: Web Design, Web Development
     details: https://pchc.com
   - title: "PCHC 20th Anniversary Campaign"
-    description: Design, Branding, Campaign Management
+    description: Design, Branding, Campaign Management, Web Design, React.js
     img: pchc20-logo.png
     content: "Designed an anniversary logo & associated marketing campaign to celebrate PCHC's 20th year. Also designed and developed a splash-page website at PCHC20.com"
     details: https://pchc20.com/
+  - title: "PCHC Employee Intranet"
+    description: Web Development, Web Design, WordPress
+    img: pchc-intranet.jpg
+    content: "Designed and developed an internal employee intranet to communicate company news and other updates to nearly 800 employees."
+    details: https://github.com/PCHC/Intranet-Theme
   - title: "Seaport Community Health Center"
-    description: Web Development, Web Design
+    description: Web Development, Web Design, WordPress
     img: seaport.jpg
     content: "Web design and development for Seaport Community Health Center, a healthcare practice of PCHC located in Belfast, Maine"
     tags: Web Development
@@ -25,7 +30,7 @@ portfolio:
     tags: Graphic Design
     details: #
   - title: "Katahdin Shadows Campground"
-    description: Web Development, Web Design
+    description: Web Development, Web Design, WordPress
     img: katahdinshadows.jpg
     content: "Web design and development for a family owned and operated campground in Medway, Maine."
     tags: Web Development, Web Design
