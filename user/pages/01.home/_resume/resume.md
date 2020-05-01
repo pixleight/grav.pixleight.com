@@ -5,14 +5,18 @@ sections:
       css_class: technical-skill
       items:
         - title: Web Design & Development
-          description: HTML5 | CSS3 | SASS | JavaScript | jQuery | React.js | PHP | WordPress | WooCommerce | Laravel | Bootstrap | Responsive Design | Webpack | Gulp | Git
+          description: HTML5 | CSS3 | SASS | Tailwind.css | JavaScript | jQuery | Vue | PHP | WordPress | WooCommerce | Craft CMS | Bootstrap | Responsive Design | Webpack | Gulp | Git
         - title: Software
-          description: Adobe Creative Suite | Microsoft Office | MacOS | Final Cut Pro X | Atom | VSCode
+          description: Adobe Creative Suite | Microsoft Office | MacOS | Final Cut Pro X | VSCode
         - title: Other Skills
           description: Photography | Graphic Design | Videography | Marketing & Communications 
     - title: Work
       css_class: work
       items:
+        - title: The Refinery
+          info: Senior Frontend Developer
+          date: 2018 – 
+          description: Developing websites and web applicatiopns for medium to large-size businesses and nonprofits.
         - title: PCHC
           info: Manager of Digital Media & Web Development; Communications Manager
           date: 2012 - 2018
