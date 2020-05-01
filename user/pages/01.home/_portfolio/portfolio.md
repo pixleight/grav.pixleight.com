@@ -1,6 +1,12 @@
 ---
 title: Portfolio
 portfolio:
+  - title: "Quarantin.io"
+    description: Web Development, Vue, Firebase
+    img: quarantinio.jpg
+    content: "A web-based app crowdsourcing stock levels of crucial groceries and other supplies during the COVID-19 pandemic."
+    tags: Web Development, Vue, Firebase
+    details: https://quarantin.io
   - title: "PCHC.com"
     description: Web Development, Web Design, WordPress
     img: pchc-com.jpg
